@@ -1,0 +1,40 @@
+﻿ID,Pergunta,A,Nó A,B,Nó B
+1,A casa possui mais de um andar?,SIM,2,NÃO,19
+2,A casa é recente?,SIM,3,NÃO,13
+3,A casa possui 3 quartos ou mais?,SIM,4,NÃO,11
+4,A nota da casa é boa?,SIM,5,NÃO,8
+5,A casa possui 3 banheiros ou mais?,SIM,6,NÃO,7
+6,NÓ FOLHA,A casa é barata,,,
+7,NÓ FOLHA,A casa é cara,,,
+8,A casa possui 3 banheiros ou mais?,SIM,9,NÃO,10
+9,NÓ FOLHA,A casa é barata,,,
+10,NÓ FOLHA,A casa é cara,,,
+11,NÓ FOLHA,A casa é cara,,,
+12,A nota da casa é boa?,SIM,13,NÃO,16
+13,A casa possui 3 quartos ou mais?,SIM,14,NÃO,15
+14,NÓ FOLHA,A casa é barata,,,
+15,NÓ FOLHA,A casa é cara,,,
+16,A casa possui 3 banheiros ou mais?,SIM,17,NÃO,18
+17,NÓ FOLHA,A casa é barata,,,
+18,NÓ FOLHA,A casa é cara,,,
+19,A casa é recente?,SIM,20,NÃO,31
+20,A casa possui 3 quartos ou mais?,SIM,21,NÃO,26
+21,A casa possui 3 banheiros ou mais?,SIM,22,NÃO,23
+22,NÓ FOLHA,A casa é barata,,,
+23,A nota da casa é boa?,SIM,24,NÃO,25
+24,NÓ FOLHA,A casa é barata,,,
+25,NÓ FOLHA,A casa é cara,,,
+26,A casa possui 3 banheiros ou mais?,SIM,27,NÃO,28
+27,NÓ FOLHA,A casa é barata,,,
+28,A nota da casa é boa?,SIM,29,NÃO,30
+29,NÓ FOLHA,A casa é barata,,,
+30,NÓ FOLHA,A casa é cara,,,
+31,A casa possui 3 banheiros ou mais?,SIM,32,NÃO,33
+32,NÓ FOLHA,A casa é barata,,,
+33,A casa possui 3 quartos ou mais?,SIM,34,NÃO,37
+34,A nota da casa é boa?,SIM,35,NÃO,36
+35,NÓ FOLHA,A casa é barata,,,
+36,NÓ FOLHA,A casa é cara,,,
+37,A nota da casa é boa?,SIM,38,NÃO,39
+38,NÓ FOLHA,A casa é barata,,,
+39,NÓ FOLHA,A casa é cara,,,
